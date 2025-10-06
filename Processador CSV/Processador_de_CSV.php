@@ -40,10 +40,7 @@ $i = 0;//define variavel
     }
     echo "A média de valor de todos os produtos é: \n";
     echo "R$".array_sum($prices)/$i;//array sum no prices e divide pela quantia de linhas
-/* estou morrendo de dor de cabeça depois de terminar esse código, provavelmente por que
-não sei resolver muitas das coisas que foram resolvidas, então tive que pensar muito mais do 
-que realmente era necessário, utilizei bastante de inteligencias artificias para corrigir alguns erros
- e sugerir soluções como usar o while para tirar tudo de dentro do arquivo e colocar em um array
- e assim poder usar o foreach*/
+
+
 
 ?>
